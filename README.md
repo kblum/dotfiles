@@ -62,7 +62,7 @@ unlink ~/.gvimrc
 unlink ~/.irbrc
 unlink ~/.vim
 unlink ~/.vimrc
-rm ~/.zshrc # careful here
+unlink ~/.zshrc # careful here
 rm ~/.gitconfig
 rm -rf ~/.dotfiles
 rm -rf ~/.oh-my-zsh
