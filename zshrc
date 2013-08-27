@@ -49,5 +49,7 @@ export EDITOR='mate -w'
 
 source $ZSH/oh-my-zsh.sh
 
+alias gitundo='git reset --soft HEAD~1'
+
 # for Homebrew installed rbenv
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
