@@ -9,6 +9,12 @@ Uses [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh).
 
 ## Installation
 
+You should have [Homebrew](http://brew.sh) installed. Homebrew can be installed as follows:
+
+```terminal
+ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+```
+
 Run the following commands in your terminal. It will prompt you before it does anything destructive.
 
 ```terminal
